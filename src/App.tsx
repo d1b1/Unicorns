@@ -151,19 +151,19 @@ export function App() {
               </div>
               <div className="filter-el">
                 <h4>
-                  Degree
+                  Degrees
                 </h4>
                 <RefinementList attribute="DegreeStudied" showMore="true" searchable="true" searchablePlaceholder="Enter a degree..." limit="5" />
               </div>
               <div className="filter-el">
                 <h4>
-                  Ethnicity
+                  Ethnicities
                 </h4>
                 <RefinementList attribute="Ethnicity" showMore="true" searchable="true" searchablePlaceholder="Enter a Ethnicity..." limit="5" />
               </div>
               <div className="filter-el">
                 <h4>
-                  SeedInvestors
+                  Seed Investors
                 </h4>
                 <RefinementList attribute="SeedInvestors" showMore="true" searchable="true" searchablePlaceholder="Enter a Investor..." limit="5" />
               </div>
