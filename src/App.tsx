@@ -114,7 +114,7 @@ export function App() {
       >
         <header className="header">
           <h1 className="header-title">
-            Networking Tools
+            Startup Unicorns
             <Stats />
           </h1>
           {/* <button className="btn btn-sm btn-outline-dark avatar-btn headerBtn" onClick={openModal}>
