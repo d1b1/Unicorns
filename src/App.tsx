@@ -261,9 +261,9 @@ function Hit({ hit }: HitProps) {
     <article>
       <div className="row">
         <div className="col-7">
-          <h4>
+          <h2>
             <Highlight attribute="Company" hit={hit} />
-          </h4>
+          </h2>
           <p>
             {hit.CompanyDescription}
           </p>
